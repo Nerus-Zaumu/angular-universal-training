@@ -1,0 +1,21 @@
+nav{
+  background-color: red;
+  width: 50%;
+  margin-inline: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  a{
+    text-decoration: none;
+    font-size: 2rem;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
